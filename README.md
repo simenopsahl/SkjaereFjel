@@ -9,6 +9,7 @@ The stock is pretty flat, so I am hoping much planing won't be needed. Aiming fo
 ![Isometric view](reference/CuttingBoardIsometricView.bmp)  
 ![Top view](reference/CuttingBoardTopView.bmp)  
 ![Bottom view](reference/CuttingBoardBottomView.bmp)  
+![3D View](CuttingBoard3D.stl)  
 
 3D modeled parts.  
 [Full project file](CuttingBoard.FCStd)  
